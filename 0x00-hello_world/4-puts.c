@@ -2,7 +2,7 @@
 
 /**
  * main - start
- *
+ *@parameter: takes no parameters
  * Return : Always 0 (Success)
  */
 
