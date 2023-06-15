@@ -2,7 +2,7 @@
 /**
  * main - start
  * description : 'the programe print comments
- * return : always 0 (Success)
+ * Return : Always 0 (Success)
  */
 
 int main(void)
