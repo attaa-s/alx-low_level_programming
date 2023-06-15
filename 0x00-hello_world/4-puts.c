@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints comments
- * Return zero for success  
+ * main - prints comments  
  */
 int main(void)
 {
