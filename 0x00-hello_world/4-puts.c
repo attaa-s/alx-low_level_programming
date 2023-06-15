@@ -1,5 +1,5 @@
 #include <stdio.h>
-/**
+/*
  * main - prints comments  
  */
 int main(void)
