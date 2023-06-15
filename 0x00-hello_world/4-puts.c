@@ -1,7 +1,5 @@
 #include <stdio.h>
-/*
- * main - prints comments  
- */
+
 int main(void)
 /* this fuction return 0*/
 {
