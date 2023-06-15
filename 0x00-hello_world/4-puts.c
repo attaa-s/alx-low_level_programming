@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - prints comments
- * Return "0" 
+ * Return zero for success  
  */
 int main(void)
 {
