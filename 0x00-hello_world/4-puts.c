@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - start
- * description : 'the programe print comments
  * Return : Always 0 (Success)
  */
 
