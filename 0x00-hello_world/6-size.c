@@ -1,4 +1,4 @@
-#include<stdio.h> 
+#include <stdio.h> 
 
 /**
   * main - Prints a text
@@ -7,6 +7,7 @@
   */
 int main(void)
 {
+
 	char a;
 	int b;
 	long int c;
