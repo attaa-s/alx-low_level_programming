@@ -2,8 +2,8 @@
 
 /**
  * main - start
- *@parameter: takes no parameters
- * Return : Always 0 (Success)
+ *
+ *@Return : Always 0 (Success)
  */
 
 int main(void)
